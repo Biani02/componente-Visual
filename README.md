@@ -55,7 +55,7 @@ USO
   °Un boton para generar un nuevo codigo CAPTCHA
 *El sistema mostrara un mensaje indicando si el codigo que ha sido ingresado es correcto, incorrecto o si no se ha ingresado algun dato.
 
-![image](https://github.com/user-attachments/assets/03d6e7f8-1b8a-4710-977b-bcfc24f80887)
+![image](https://github.com/Biani02/componente-Visual/blob/8600dd1ff1b2419eb7ccd2792f5ddc7644c8cbbc/Captura%20de%20pantalla%202025-07-04%20173021.png)
   
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 CAPTURAS DE PANTALLA:
