@@ -38,6 +38,10 @@ Este componente utiliza javaScript para generar y verificar el codigo, asi como 
 -----------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+¿QUÉ PROBLEMA RESUELVE?:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Este componente CAPTCHA, va a ayudar a prevenir el uso automatizado o malicioso de formularios web (spam en formularios de contacto o multiples intentos de login) ya que, exige que el usuario demuestre ser un humano escribiendo el codigo visual generado de manera aleatoria
+
 INSTALACIÓN: 
 
 Para poder instalar y visualizar el componente, es necesario descargar los archivos manualmente o clonar el repositorio
@@ -49,15 +53,32 @@ USO
 *Para poder hacer uso de este componente, lo primero que se tiene que hacer es abrir el archivo componenteVisual.html desde un navegador.
 
 *Despues, se mostrara un cuadro, en donde se podra visualizar:
-  °El codigo generado de manera aleatoria en un canvas.
-  °Un campo de entrada para escribir el código.
-  °Un boton para comprobar si el codigo que ha sido es correcto
-  °Un boton para generar un nuevo codigo CAPTCHA
+	°El codigo generado de manera aleatoria en un canvas.
+ 	°Un campo de entrada para escribir el código.
+	°Un boton para comprobar si el codigo que ha sido es correcto
+  	°Un boton para generar un nuevo codigo CAPTCHA
 *El sistema mostrara un mensaje indicando si el codigo que ha sido ingresado es correcto, incorrecto o si no se ha ingresado algun dato.
 
 ![image](https://github.com/Biani02/componente-Visual/blob/8600dd1ff1b2419eb7ccd2792f5ddc7644c8cbbc/Captura%20de%20pantalla%202025-07-04%20173021.png)
-  
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+HTML:   
+
+![image]()
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+JAVASCRIPT:   
+
+![image]()
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CSS:   
+
+![image]()
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 CAPTURAS DE PANTALLA:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
