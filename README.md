@@ -2,7 +2,7 @@
 OBJETIVO:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-aqui va el ojetivo
+Con la creacion de un componente CAPTCHA visual, verificar si el usuario es humano mediante un código generado aleatoriamente, utilizando HTML, CSS, JavaScript y Bootstrap.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 								
 					TECNOLÓGICO NACIONAL DE MEXICO
@@ -50,14 +50,16 @@ Para poder instalar y visualizar el componente, es necesario descargar los archi
 USO 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*Para poder hacer uso de este componente, lo primero que se tiene que hacer es abrir el archivo componenteVisual.html desde un navegador.
+Para poder hacer uso de este componente, lo primero que se tiene que hacer es abrir el archivo componenteVisual.html desde un navegador.
 
-*Despues, se mostrara un cuadro, en donde se podra visualizar:
-	°El codigo generado de manera aleatoria en un canvas.
- 	°Un campo de entrada para escribir el código.
-	°Un boton para comprobar si el codigo que ha sido es correcto
-  	°Un boton para generar un nuevo codigo CAPTCHA
-*El sistema mostrara un mensaje indicando si el codigo que ha sido ingresado es correcto, incorrecto o si no se ha ingresado algun dato.
+Despues, se mostrara un cuadro, en donde se podra visualizar: 
+
+El codigo generado de manera aleatoria en un canvas.
+ Un campo de entrada para escribir el código.
+Un boton para comprobar si el codigo que ha sido es correcto
+Un boton para generar un nuevo codigo CAPTCHA
+
+El sistema mostrara un mensaje indicando si el codigo que ha sido ingresado es correcto, incorrecto o si no se ha ingresado algun dato.
 
 ![image](https://github.com/Biani02/componente-Visual/blob/8600dd1ff1b2419eb7ccd2792f5ddc7644c8cbbc/Captura%20de%20pantalla%202025-07-04%20173021.png)
 
