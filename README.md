@@ -61,26 +61,30 @@ Un boton para generar un nuevo codigo CAPTCHA
 
 El sistema mostrara un mensaje indicando si el codigo que ha sido ingresado es correcto, incorrecto o si no se ha ingresado algun dato.
 
-![image](https://github.com/Biani02/componente-Visual/blob/8600dd1ff1b2419eb7ccd2792f5ddc7644c8cbbc/Captura%20de%20pantalla%202025-07-04%20173021.png)
+![Captura de pantalla 2025-07-05 201728](https://github.com/user-attachments/assets/095ec929-78ac-4d3f-b8de-3669465ce4f3)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 HTML:   
 
-![image](https://github.com/Biani02/componente-Visual/blob/e1b620e367e6496326163415dbf2d43cc356556e/HTML.png)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![HTML](https://github.com/user-attachments/assets/d736f9ba-a528-440a-bb41-f73e098e8b74)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 JAVASCRIPT:   
 
-![image](https://github.com/Biani02/componente-Visual/blob/844c3b934735c6abbdca109c79630fe018c27a48/JAVASCRIPT1.png)
+![JAVASCRIPT1](https://github.com/user-attachments/assets/c22d98a4-3ada-4c8a-89c3-5731133e628c)
 
-![image](https://github.com/Biani02/componente-Visual/blob/b3e77450ab57ccffa828a287ff7d49029ca08156/JAVASCRIPT2.png)
+![JAVASCRIPT2](https://github.com/user-attachments/assets/9d41df21-f0c7-498e-ba2f-9fcfb1e769ab)
+
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 CSS:   
 
-![image](https://github.com/Biani02/componente-Visual/blob/420628a4edf6bdc41dedd49091fb8c404849c286/CSS.png)
+![CSS](https://github.com/user-attachments/assets/88fac91b-ab62-4775-b008-ca66c438f032)
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 CAPTURAS DE PANTALLA:
